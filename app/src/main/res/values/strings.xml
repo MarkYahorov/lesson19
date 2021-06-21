@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson19</string>
+    <string name="enter_the_request">Enter the request</string>
+    <string name="search_in_server">Search in server</string>
+    <string name="wait">Wait</string>
+    <string name="isloading">isLoading...</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_size">
+        <item name="android:textSize">@dimen/size_of_text_in_main_screen</item>
+    </style>
+
+    <style name="text_size.main_edit_text">
+        <item name="android:inputType">text</item>
+    </style>
+</resources>

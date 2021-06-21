@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_text_in_main_screen">20sp</dimen>
+</resources>
